@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @volkorp. Spanish DevSecOps.
+- 👋 Hi, I’m @volkorp. Spanish Dev.
 - 👀 I’m interested in almost any new project and languaje It comes to my hands.
-- 🌱 I’m currently learning NodeJS and cybersecurity.
 - 📫 To reach me just contact me on github.
 
 <!---
